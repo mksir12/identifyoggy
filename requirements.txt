@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+shazamio
+yt-dlp
